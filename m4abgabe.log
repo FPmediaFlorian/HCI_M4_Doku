@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.5)  17 MAY 2018 09:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.5)  17 MAY 2018 09:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1104,28 +1104,28 @@ Package microtype Info: Loading generic settings for font family
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 128.
 
-(./m4abgabe.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 152.
- [1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+(./m4abgabe.bbl) [1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/p
+dftex.map}
 
 
 Non-PDF special ignored!
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 152.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 166.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 166.
  (./m4abgabe.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 152.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 152.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 166.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 166.
 Package rerunfilecheck Info: File `m4abgabe.out' has not changed.
 (rerunfilecheck)             Checksum: 9B69ACFC8C248954F397A57C43DAC1AF;628.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 152.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 166.
  ) 
 Here is how much of TeX's memory you used:
- 19475 strings out of 492995
- 357784 string characters out of 6132705
- 445090 words of memory out of 5000000
+ 19494 strings out of 492995
+ 357949 string characters out of 6132705
+ 444090 words of memory out of 5000000
  22564 multiletter control sequences out of 15000+600000
- 51481 words of font info for 128 fonts, out of 8000000 for 9000
+ 52327 words of font info for 141 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,10n,56p,610b,337s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{section*.15} has been referenced but does not exi
@@ -1164,7 +1164,7 @@ ive/2017/texmf-dist/fonts/type1/public/txfonts/t1xbtt.pfb></usr/local/texlive/2
 017/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2017/tex
 mf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2017/texmf-dist/fo
 nts/type1/urw/times/utmr8a.pfb>
-Output written on m4abgabe.pdf (1 page, 55852 bytes).
+Output written on m4abgabe.pdf (1 page, 58033 bytes).
 PDF statistics:
  109 PDF objects out of 1000 (max. 8388607)
  100 compressed objects within 1 object stream
